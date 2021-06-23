@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iTerms/static/css/main.da0fb823.chunk.css",
+    "main.css": "/iTerms/static/css/main.24bcfd31.chunk.css",
     "main.js": "/iTerms/static/js/main.fdadbad9.chunk.js",
     "main.js.map": "/iTerms/static/js/main.fdadbad9.chunk.js.map",
     "runtime-main.js": "/iTerms/static/js/runtime-main.f00115ee.js",
@@ -10,7 +10,7 @@
     "static/js/2.ed064ab5.chunk.js.map": "/iTerms/static/js/2.ed064ab5.chunk.js.map",
     "index.html": "/iTerms/index.html",
     "static/css/2.0f0132db.chunk.css.map": "/iTerms/static/css/2.0f0132db.chunk.css.map",
-    "static/css/main.da0fb823.chunk.css.map": "/iTerms/static/css/main.da0fb823.chunk.css.map",
+    "static/css/main.24bcfd31.chunk.css.map": "/iTerms/static/css/main.24bcfd31.chunk.css.map",
     "static/js/2.ed064ab5.chunk.js.LICENSE.txt": "/iTerms/static/js/2.ed064ab5.chunk.js.LICENSE.txt",
     "static/media/123.af644fbf.png": "/iTerms/static/media/123.af644fbf.png",
     "static/media/Solutions.a649c3c5.png": "/iTerms/static/media/Solutions.a649c3c5.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.f00115ee.js",
     "static/css/2.0f0132db.chunk.css",
     "static/js/2.ed064ab5.chunk.js",
-    "static/css/main.da0fb823.chunk.css",
+    "static/css/main.24bcfd31.chunk.css",
     "static/js/main.fdadbad9.chunk.js"
   ]
 }
